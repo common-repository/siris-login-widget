@@ -1,0 +1,21 @@
+/* CSS for Siris Login*/
+ul.svmenu {
+    list-style: none;
+   display: block;
+}
+ul.svmenu li.menu-item {
+    display: block;
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 3px 0;
+}
+ul.svmenu li.menu-item  a {
+    display: block;
+    padding: .1em 0px .1em .5em;
+    text-decoration: none;
+}
+
+/*svmenu submenu styles*/
+ul.svmenu .sub-menu {
+    display: none;
+}
